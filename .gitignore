@@ -1,0 +1,10 @@
+# mac OS
+.DS_Store
+
+# .idea
+.idea/
+
+*.o
+authorization.password
+gen.py
+ref.c
